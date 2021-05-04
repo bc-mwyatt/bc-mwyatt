@@ -1,6 +1,6 @@
 ### Well hello there! :wave:
 
-I'm a Product Support Engineer at BigCommerce.com as well as a Developer Blog Contirubuter!
+I'm a Infrasctructure Security Engineer at BigCommerce.com as well as a Developer Blog Contirubuter!
 
 Here are my two most recent articles!
 - BigCommerce Blog: ["What is an API?"](https://www.bigcommerce.com/blog/what-is-an-api/)
